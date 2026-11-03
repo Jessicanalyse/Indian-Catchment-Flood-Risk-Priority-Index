@@ -3,7 +3,7 @@ Flood risk assessment and prioritisation across Indian catchments using data ana
 
 ## Project Overview
 
-This project develops a reproducible, catchment-level flood risk priority index for India using flood events, rainfall variables, catchment characteristics and gauge metadata.
+This project develops a catchment-level flood risk priority index for India using flood events, rainfall variables, catchment characteristics and gauge metadata.
 
 The objective is to identify and prioritise Indian catchments based on their historical flood hazard, exposure and vulnerability.
 
